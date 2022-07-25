@@ -1,0 +1,6 @@
+Логин:
+postgres
+Пароль:
+postgres
+Название базы данных:
+BookShopdb
